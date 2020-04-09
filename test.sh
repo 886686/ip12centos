@@ -10,4 +10,4 @@ echo "after test3"
 
 echo "88"
 echo "write from hub"
-
+echo "write from git"
